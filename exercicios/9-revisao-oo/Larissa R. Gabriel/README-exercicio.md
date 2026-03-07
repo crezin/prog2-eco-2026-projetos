@@ -35,11 +35,11 @@ Para essa atividade, criei a classe Pagamento, que possui um método processar()
 cd PASTAS ANTERIORES DO SEU COMPUTADOR\prog2-eco-2026-projetos\exercicios\9-revisao-oo\Larissa R. Gabriel
 
 # Escreva o node e nome do arquivo do exercício:
-node Atv1-abstração.js
-node Atv2-encapsulamento.js
-node Atv3-herança_polimorfismo.js
-node Atv4-biblioteca.js
-node Atv5-sistema-de-pagamento.js
+node Ativ1.js
+node Ativ2.js
+node Ativ3.js
+node Ativ4.js
+node Ativ5.js
 
 ```
 
