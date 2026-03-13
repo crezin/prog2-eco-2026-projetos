@@ -42,7 +42,6 @@ _Um ambiente de desenvolvimento integrado (IDE) é uma aplicação de software q
 **Ferramenta escolhida:** `Visual Studio Code`
 
 **Justificativa:**
-## Ferramenta que mais se destacou
 
 Entre as ferramentas analisadas, a que mais se destacou foi o Visual Studio Code. Um dos principais motivos é que ele consegue reunir muitos recursos importantes sem ser pesado ou difícil de usar.
 
@@ -80,8 +79,6 @@ _Um sistema de gerenciamento de banco de dados (SGBD) é uma ferramenta utilizad
 **Ferramenta escolhida:** `PostgreSQL`
 
 **Justificativa:**
-
-## Ferramenta que mais se destacou
 
 Entre as ferramentas analisadas, a que mais se destacou foi o PostgreSQL. Isso acontece porque ele oferece um conjunto muito completo de recursos para gerenciamento de bancos de dados, sendo bastante utilizado tanto em projetos acadêmicos quanto em sistemas profissionais.
 
@@ -121,8 +118,6 @@ _Ferramentas de teste de API são utilizadas para enviar requisições HTTP e an
 
 **Justificativa:**
 
-## Ferramenta que mais se destacou
-
 Entre as ferramentas analisadas, a que mais se destacou foi o Postman. Isso ocorre porque ele é uma das ferramentas mais populares e completas para teste de APIs, sendo amplamente utilizada por desenvolvedores em diferentes tipos de projetos.
 
 Um dos principais pontos positivos do Postman é sua interface intuitiva, que facilita o envio de requisições HTTP e a visualização das respostas do servidor. A ferramenta também permite organizar requisições em coleções, o que ajuda bastante durante o desenvolvimento e os testes de sistemas que possuem várias rotas de API.
@@ -161,8 +156,6 @@ _Ferramentas de qualidade de código são utilizadas para analisar, padronizar e
 **Ferramenta escolhida:** `ESLint`
 
 **Justificativa:**
-
-## Ferramenta que mais se destacou
 
 Entre as ferramentas analisadas, a que mais se destacou foi o ESLint. Essa ferramenta é amplamente utilizada no desenvolvimento em JavaScript e possui como principal objetivo analisar o código e identificar possíveis erros, problemas de sintaxe ou padrões inadequados de programação.
 
